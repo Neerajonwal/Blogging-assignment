@@ -1,4 +1,3 @@
-const { Socket } = require("dgram");
 const express = require("express");
 const Movie = require("./Schema/model");
 const app = express();
