@@ -13,8 +13,8 @@ Before running the project, make sure you have the following installed:
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/blogging-system.git
-   cd blogging-system
+   git clone https://github.com/Neerajonwal/Blogging-assignment.git
+   cd Blogging-assignment
 
    Install server dependencies:
    npm install
@@ -40,7 +40,6 @@ Users can log in securely using their credentials.
 Authentication is handled using JWT (JSON Web Tokens).
 
 Endpoints :-
-
 Use tools like Postman to test the following endpoints:
 User Registration:
 POST /auth/register
