@@ -97,3 +97,6 @@ Security
 Proper validation and sanitization of user input are implemented to prevent security vulnerabilities.
 User authentication is handled using JWT (JSON Web Tokens).
 Error handling and input validation are in place to enhance security.
+
+Troubleshooting
+If you encounter any issues while setting up or using the blogging system, please contect me 9549850187 for possible solutions. i will do my best to assist you.
